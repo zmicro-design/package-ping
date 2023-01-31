@@ -1,0 +1,8 @@
+#!/bin/bash
+
+export PACKAGE_CORE_NAME="ping"
+export PACKAGE_CORE_BIN_NAME="$PACKAGE_CORE_NAME"
+export PACKAGE_CORE_VERSION=v20221126-1
+export PACKAGE_CORE_ORG="zmicro-design"
+
+export PACKAGE_CORE_RELEASE_DOWNLOAD="https://github.com/${PACKAGE_CORE_ORG}/ping/releases/download"
